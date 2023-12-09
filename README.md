@@ -1,4 +1,4 @@
-# VMware-ESXi-License-Keys
+# VMware vSphere 6 and 7 ESXi Licence Keys
 
 
 ![GitHub](https://img.shields.io/github/license/hegdepavankumar/VMware-ESXi-License-Keys?style=flat)
@@ -6,7 +6,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/VMware-ESXi-License-Keys.svg?cache=remove)
 
 
-# Welcome to the VMware ESXi License Keys!😎
+# Welcome to the VMware vSphere 6 and 7 ESXi License Keys!😎
 
 Here, you'll find a curated collection of free license keys for various versions, including vSphere 6 and 7. These keys are provided for educational and non-commercial purposes, allowing you to explore and learn more about VMware's powerful virtualization platform.
 
