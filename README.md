@@ -8,6 +8,8 @@
 
 # Welcome to the VMware vSphere 6 and 7 ESXi License Keys!😎
 
+# Telegram Group : [click here to join](https://t.me/cyberweavehub)
+
 Here, you'll find a curated collection of free license keys for various versions, including vSphere 6 and 7. These keys are provided for educational and non-commercial purposes, allowing you to explore and learn more about VMware's powerful virtualization platform.
 
 ## Note: Read Properly 📑
