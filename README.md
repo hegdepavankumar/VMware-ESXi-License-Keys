@@ -19,7 +19,7 @@ Here, you'll find a curated collection of free license keys for various versions
 
 Please be aware that these license keys are for educational and non-commercial use only. Using them in a production environment or for any commercial purposes may violate VMware's licensing terms. It's essential to respect and adhere to VMware's policies to ensure the integrity of their products and continued support for the community.
 
-## * Take any key if one key is not available try with another key ... Hope you get the access.!! 😊🚩
+## * Take any key; if one key is not available, try with another key... Hopefully, you'll gain access.!! 😊🚩
 
 ## Do's🤩:
 
