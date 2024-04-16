@@ -5,11 +5,20 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/VMware-ESXi-License-Keys?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/VMware-ESXi-License-Keys.svg?cache=remove)
 
+<br>
 
-[![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/fd79e514-376d-4d44-9d1a-48d74ae49930)](https://t.me/resourcehub1)
+[![telegram (1)](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys/assets/85627085/cbc449b9-ddda-4d84-8c5e-5c77e29f89ed)](https://t.me/resourcehub1)
 
-# Telegram Group : [click here to join](https://t.me/resourcehub1)
+<br>
 
+# SUPPORT ME -- 🚩💲🙏
+
+### 🔑 Finding my VMware ESXi License Keys repo helpful? It offers free evaluation or permanent local licenses for VMware products like vCenter and ESXi, enabling practice without any investment. I've dedicated significant time to research, test, and maintain these keys to ensure they're reliable and secure. If you appreciate my effort, consider supporting me with a coffee ☕️ or your best wishes. Your encouragement keeps this resource going! 🙏🙏
+
+<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee | Support me&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+
+<br>
 
 # Welcome to the VMware vSphere 6 and 7 ESXi License Keys!😎
 
