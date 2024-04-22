@@ -168,10 +168,7 @@ If you need assistance or have questions, please check the following resources:
 
 ## Contact
 
-Feel free to contact me if you have any questions or suggestions.
-
-Email: [here](mailto:puhegde01@gmail.com) <br>
-Linkedin: [here](https://www.linkedin.com/in/hegdepavankumar) <br>
+Feel free to contact me if you have any questions or suggestions. Telegram
 
 
 ## Creator [🔝](#VMware-Workstation-Pro-17-Licence-Key)
