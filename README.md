@@ -9,8 +9,6 @@
 
 [![telegram (1)](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys/assets/85627085/cbc449b9-ddda-4d84-8c5e-5c77e29f89ed)](https://t.me/resourcehub1)
 
-Now we are available on Discord: [![icons8-discord-94](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys/assets/85627085/44ebc229-02b0-4d97-b356-32f2303700e8)](https://discord.gg/qh4t64mu)
-
 
 <br>
 
