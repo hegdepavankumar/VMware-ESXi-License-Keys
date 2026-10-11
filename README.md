@@ -93,6 +93,22 @@ Remember to regularly check for updates and contribute responsibly to maintain t
 <hr>
 
 
+## VMware vSphere ESXi 7 Enterprise / Enterprise Plus keys
+
+<br>
+
+Yes — ESXi 7 license keys are listed below for educational and non-commercial use. These keys are intended for lab environments and learning purposes only.
+
+| Number | Keys | Edition | Availability |
+|:------:|------------|:-------:|:---------:|
+| 1 | `JJ2WR-25L9P-H71A8-6J20P-C0K3F` | ESXi 7.x Enterprise Plus | Active |
+| 2 | `HN2X0-0DH5M-M78Q1-780HH-CN214` | ESXi 7.x Enterprise Plus | Active |
+| 3 | `JH09A-2YL84-M7EC8-FL0K2-3N2J2` | ESXi 7.x Enterprise Plus | Active |
+| 4 | `JJ61H-6CJ50-M84G8-030A4-99H60` | ESXi 7.0 Enterprise Plus | Active |
+| 5 | `JM0C3-4C082-M8VG0-02AU2-0NKMH` | ESXi 7.0 Enterprise Plus | Active |
+
+<br>
+
 ## VMware vSphere ESXi 6.x & 7.x Enterprise Plus key	
 
 <br>
